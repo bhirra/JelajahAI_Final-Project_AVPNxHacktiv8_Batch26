@@ -110,10 +110,9 @@ Calon wisatawan atau traveler — baik yang baru pertama kali merencanakan perja
 <img width="1917" height="1032" alt="Albhirra Grendy Permana Putra - AVPNxHacktiv8 - UI (User Interface) Jelajah AI" src="https://github.com/user-attachments/assets/20e94e1f-cab0-4ff7-871a-b91545a3ebd8" />
 
 
-*(lihat bagian panduan di bawah untuk cara menambahkan screenshot ke repo)*
 
 ---
 
 ## 👤 Author
 
-Dibuat oleh **[Nama Kamu]** — Final Project AVPN Class Batch 26.
+Dibuat oleh **Albhirra Grendy Permana Putra** — Final Project AVPN Class Batch 26.
