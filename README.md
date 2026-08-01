@@ -50,8 +50,8 @@ final-project/
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/USERNAME_KAMU/NAMA_REPO.git
-cd NAMA_REPO
+git clone https://github.com/bhirra/JelajahAI_Final-Project_AVPNxHacktiv8_Batch26.git
+cd JelajahAI_Final-Project_AVPNxHacktiv8_Batch26
 ```
 
 ### 2. Install dependencies
